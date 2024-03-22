@@ -15,6 +15,6 @@ Create a `.env.local` file in the root directory of the project and set your Ope
 
 `NEXT_PUBLIC_API_KEY=your_openai_api_key`
 
-`npm start`
+`npm run dev`
 
 This will install the necessary dependencies and start the app on http://localhost:3000.
