@@ -1,5 +1,6 @@
 
-![Screenshot 2024-03-22 224144](https://github.com/nafisamiri/Monster-Factory/assets/75607606/0a0c6c5b-5077-4dd9-bd5f-119a8ce37629)
+![monster_factory](https://github.com/nafisamiri/Monster-Factory/assets/75607606/12e011be-8648-40e2-a384-5ba2ead01e9d)
+
 
 
 # Monster Factory
