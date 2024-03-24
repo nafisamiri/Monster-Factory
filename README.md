@@ -4,18 +4,18 @@
 
 
 # Monster Factory
-The Monster Factory makes your pictures monstrous. Developed with Next.js, TypeScript, TailwindCSS.
+The Monster Factory makes your pictures monstrous. Developed with Next.js, OpenAI's API, TypeScript, TailwindCSS.
 
 # Installation
 
 To run this app locally, clone the repository and run the following commands:
 
-`npm install`
+1) `npm install`
 
-Create a `.env.local` file in the root directory of the project and set your OpenAI API key:
+2) Create a `.env.local` file in the root directory of the project and set your OpenAI API key:
 
 `NEXT_PUBLIC_API_KEY=your_openai_api_key`
 
-`npm run dev`
+3) `npm run dev`
 
 This will install the necessary dependencies and start the app on http://localhost:3000.
