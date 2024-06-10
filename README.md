@@ -4,7 +4,7 @@
 
 
 # Monster Factory
-The Monster Factory makes your pictures monstrous. Developed with Next.js, OpenAI's API, TypeScript, TailwindCSS.
+Uses OpenAI's DALL-E model to transform any given image to one that resembles a Monster from Monster Inc. Developed with Next.js, OpenAI's API, TypeScript, and TailwindCSS.
 
 # Installation
 
